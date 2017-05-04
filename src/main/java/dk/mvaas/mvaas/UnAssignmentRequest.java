@@ -4,7 +4,7 @@
 package dk.mvaas.mvaas;
 
 /**
- * UnAssignmentRequest.java
+ * Author Karun
  */
 public class UnAssignmentRequest extends Request {
 	MVaaSComponent comp;
