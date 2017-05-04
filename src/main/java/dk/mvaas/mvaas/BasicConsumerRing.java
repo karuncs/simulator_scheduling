@@ -4,7 +4,7 @@
 package dk.mvaas.mvaas;
 
 /**
- * @author Paul
+ * @author Karun & Paul
  */
 public class BasicConsumerRing extends BasicConsumer {
 	/**
