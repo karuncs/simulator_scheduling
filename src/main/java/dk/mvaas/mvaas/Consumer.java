@@ -1,7 +1,7 @@
 package dk.mvaas.mvaas;
 
 /**
- * @author Paul
+ * @author Karun & Paul
  *
  */
 
